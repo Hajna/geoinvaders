@@ -1,4 +1,9 @@
 {
+    "datumi": {
+    "datum_objave" : "5.4.2020",
+    "datumOdZacetkaObdobja" : "04.12.2020",
+    "datumDoIztekaObdobja" : "11.10.2023"
+    },
     "lokacijeVpogleda": [
         {
             "naslov": {
