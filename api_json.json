@@ -1,7 +1,7 @@
 {   
-    "naslov": "Javna razgrnitev dopolnjenega osnutka Odloka o spremembah in dopolnitvah Odloka o zazidalnem načrtu za severni del območja urejanja VP 3/2 - Brdo",
+    "nazivRazgrnitve": "Javna razgrnitev dopolnjenega osnutka Odloka o spremembah in dopolnitvah Odloka o zazidalnem načrtu za severni del območja urejanja VP 3/2 - Brdo",
     "datumi": {
-    "datum_objave" : "5.4.2020",
+    "datumObjave" : "5.4.2020",
     "datumOdZacetkaObdobja" : "2021-03-23",
     "datumDoIztekaObdobja" : "2021-10-11"
     },
