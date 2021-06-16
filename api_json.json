@@ -8,8 +8,8 @@
     "lokacijeVpogleda": [
         {
             "naslov": {
-                "ulica": "Ulica Heroja Majstra 5",
-                "vnaselje": "Maribor",
+                "ulica": "Ulica heroja Staneta 1",
+                "ustanova": "Mestna Občina Maribor",
                 "obcina": "Maribor"
             },
             "uradneUre": {
@@ -35,9 +35,9 @@
         },
         {
             "naslov": {
-                "ulica": "Prečna ulica 15",
-                "vnaselje": "Preč",
-                "obcina": "Maribor"
+                "ulica": "Pohorska cesta 15",
+                "ustanova": "Občina Hoče - Slivnica",
+                "obcina": "Hoče"
             },
             "uradneUre": {
                 "pon": [
@@ -54,28 +54,6 @@
                 "čet": [
                     "8.00 - 16.00"
                 ],
-                "pet": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ]
-            }
-        },
-        {
-            "naslov": {
-                "ulica": "Ulica Druga ulica 2",
-                "naselje": "Hoče",
-                "obcina": "Maribor"
-            },
-            "uradneUre": {
-                "pon": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ],
-                "tor": "",
-                "sre": [
-                    "8.00 - 14.00"
-                ],
-                "čet": "",
                 "pet": [
                     "8.00 - 14.00",
                     "15.00 - 17.00"
