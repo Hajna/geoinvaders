@@ -3,8 +3,16 @@
     "datumi": {
     "datumObjave" : "5.4.2020",
     "datumOdZacetkaObdobja" : "2021-03-23",
-    "datumDoIztekaObdobja" : "2021-10-11"
-    },
+    "datumDoIztekaObdobja" : "2021-10-11",
+    "opis": "Vsak prebivalec Slovenije v letu dni ustvari okoli 500 kilogramov
+            odpadkov. Gre za odpadke, ki nastajajo v gospodinjstvih, mednje pa
+            štejemo vse, kar prebivalci zmečemo v modre, rumene, rjave in črne
+            zabojnike za smeti, ki stojijo pred našimi domovi.Vsak prebivalec
+            Slovenije v letu dni ustvari okoli 500 kilogramov odpadkov. Gre za
+            odpadke, ki nastajajo v gospodinjstvih, mednje pa štejemo vse, kar
+            prebivalci zmečemo v modre, rumene, rjave in črne zabojnike za
+            smeti, ki stojijo pred našimi domovi."
+            },
     "lokacijeVpogleda": [
         {
             "naslov": {
@@ -87,19 +95,67 @@
             }
         }
     ],
-    "dokumentacija":
-        [
-          {"naslov": "akt1",
-            "url": "url123"}
-         ,
-          {
-            "naslov": "folder1",
-            "url": [
-              {"naslov": "akt2",
-            "url": "url124"},
-                {"naslov": "akt3",
-            "url": "url324"}
-            ]
-          }
-        ]
+	"dokumentacija":[
+		{
+			"text": "Tekstualni del",
+			"type": "folder",
+			"children": [
+				{
+					"text": "PUP_dokum.doc",
+					"type": "doc",
+					"a_attr": {
+						"href": "http://www.example.com/"
+					}
+				}
+			]
+		},
+		{
+			"text": "Grafični del",
+			"type": "folder",
+			"children": [
+				{
+					"text": "Pregledna situacija",
+					"type": "folder",
+					"children": [
+						{
+							"text": "Pregledna_situacija.tiff",
+							"type": "tiff"
+						},
+						{
+							"text": "05_PSP_varovanja.pdf",
+							"type": "pdf"
+						}
+					]
+				},
+				{
+					"text": "Ostalo",
+					"type": "folder",
+					"children": [
+						{
+							"text": "PUP_mesto.tiff",
+							"type": "tiff"
+						},
+						{
+							"text": "PUP_podezelje.tiff",
+							"type": "tiff"
+						}
+					]
+				}
+			]
+		},
+		{
+			"text": "Priloge",
+			"type": "folder",
+			"children": [
+				{
+					"text": "01_pov_jav.pdf",
+					"type": "pdf"
+				},
+				{
+					"text": "02_pov_zab.doc",
+					"type": "doc"
+				}
+			]
+		}
+	]
 }
