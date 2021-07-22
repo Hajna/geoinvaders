@@ -1,11 +1,11 @@
 {   
     "nazivRazgrnitve": "Javna razgrnitev dopolnjenega osnutka Odloka o spremembah in dopolnitvah Odloka o zazidalnem načrtu za severni del območja urejanja VP 3/2 - Brdo",
-    "datumi": {
+     "opis": "Namen razgrnitve modelov vrednotenja je seznanitev vseh lastnikov nepremičnin spredlogom modelov vrednotenja nepremičnin tudi grafično in na vizuelen način. Izrazgrnjenih izrisov je razvidno, kako so vrednostne cone in njihove vrednostne ravnipredlagane za celotno območje občine, kakšne so vrednostne tabele in točkovalniki. Občaniin lastniki lahko na podlagi javnoobjavljenih poskusnoizračunanih vrednosti na spletu, inrazgrnitve dobijo celovito in širšo informacijo o predlaganih modelih vrednotenjanepremičnin. "
+     "datumi": {
     "datumObjave" : "5.4.2020",
     "datumOdZacetkaObdobja" : "2021-03-23",
-    "datumDoIztekaObdobja" : "2021-10-11",
-    "opis": "Namen razgrnitve modelov vrednotenja je seznanitev vseh lastnikov nepremičnin spredlogom modelov vrednotenja nepremičnin tudi grafično in na vizuelen način. Izrazgrnjenih izrisov je razvidno, kako so vrednostne cone in njihove vrednostne ravnipredlagane za celotno območje občine, kakšne so vrednostne tabele in točkovalniki. Občaniin lastniki lahko na podlagi javnoobjavljenih poskusnoizračunanih vrednosti na spletu, inrazgrnitve dobijo celovito in širšo informacijo o predlaganih modelih vrednotenjanepremičnin. "
-            },
+    "datumDoIztekaObdobja" : "2021-10-11"
+    }
     "lokacijeVpogleda": [
         {
             "naslov": {
