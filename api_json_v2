@@ -1,0 +1,63 @@
+{
+  "nazivRazgrnitve": "Popolna javna objava",
+  "opis": "Danes bo japonski cesar Naruhito uradno odprl paraolimpijske igre v Tokiu, otvoritvena slovesnost se je začela ob 13.00. Na igrah, ki bodo trajale do 5. septembra, bo nastopilo sedem slovenskih športnikov, slovensko zastavo bo nosil Dejan Fabčič.",
+  "javnoNaznanilo": 7016,
+  "povzetekZaJavnost": 7010,
+  "datumNaznanilo": "2021-08-28",
+  "datumOdZacetkaObdobja": "2021-08-23",
+  "datumDoIztekaObdobja": "2021-08-27",
+  "naznaniloHash": "2f12283fd0d42235d016",
+  "naznaniloIme": "sample.pdf",
+  "naznaniloNaziv": "Test 7",
+  "povzetekHash": "5ccd36ceccd5bc823c48",
+  "povzetekIme": "CCITT_2.TIF",
+  "povzetekNaziv": "Test 2",
+  "lokacijaVpogleda": {
+    "Občina Ljubljana": [
+      {
+        "naslov": "Občina Ljubljana",
+        "uradneUre": "Pon, 09:00 - 14:00"
+      },
+      {
+        "naslov": "Občina Ljubljana",
+        "uradneUre": "Tor, 09:00 - 14:00"
+      },
+      {
+        "naslov": "Občina Ljubljana",
+        "uradneUre": "Sre, 03:00 - 17:00"
+      }
+    ],
+    "Občina Maribor": [
+      {
+        "naslov": "Občina Maribor",
+        "uradneUre": "Pon, 09:00 - 14:00"
+      },
+      {
+        "naslov": "Občina Maribor",
+        "uradneUre": "Tor, 09:00 - 14:00"
+      },
+      {
+        "naslov": "Občina Maribor",
+        "uradneUre": "Sre, 03:00 - 17:00"
+      }
+    ]
+  },
+  "javneObravnave": [
+    {
+      "naziv": "Obravnava 1",
+      "datum": "26 avg. 2021",
+      "ura": "12:15"
+    },
+    {
+      "naziv": "Obravnava 2",
+      "datum": "02 avg. 2021",
+      "ura": "10:00"
+    },
+    {
+      "naziv": "Obravnava 3",
+      "datum": "28 avg. 2021",
+      "ura": "12:00"
+    }
+  ],
+  "dokumentacija": "[{\"id\":\"root_1\",\"text\":\"Tekstualni del\",\"icon\":true,\"li_attr\":{\"id\":\"root_1\"},\"a_attr\":{\"href\":\"#\",\"id\":\"root_1_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":true,\"disabled\":false},\"data\":{},\"parent\":\"#\",\"type\":\"folder\"},{\"id\":\"j24_1\",\"text\":\"Test 11 | test.jpg\",\"icon\":\"fa fa-file\",\"li_attr\":{\"id\":\"j24_1\"},\"a_attr\":{\"href\":\"https://prostor.maribor.si/prostorski-akti-javne-objave/datoteke/3e6544a4efc6a810a981.jpg/test.jpg\",\"id\":\"j24_1_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"root_1\",\"type\":\"file\"},{\"id\":\"j24_4\",\"text\":\"Podmapa\",\"icon\":true,\"li_attr\":{\"id\":\"j24_4\"},\"a_attr\":{\"href\":\"#\",\"id\":\"j24_4_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"root_1\",\"type\":\"default\"},{\"id\":\"j24_5\",\"text\":\"Test 7 | Jellyfish.jpg\",\"icon\":\"fa fa-file\",\"li_attr\":{\"id\":\"j24_5\"},\"a_attr\":{\"href\":\"https://prostor.maribor.si/prostorski-akti-javne-objave/datoteke/8bb750618cc46e82c082.jpg/Jellyfish.jpg\",\"id\":\"j24_5_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"j24_4\",\"type\":\"file\"},{\"id\":\"root_2\",\"text\":\"Grafični del\",\"icon\":true,\"li_attr\":{\"id\":\"root_2\"},\"a_attr\":{\"href\":\"#\",\"id\":\"root_2_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"#\",\"type\":\"folder\"},{\"id\":\"j24_2\",\"text\":\"Test 7 | sample.pdf\",\"icon\":\"fa fa-file\",\"li_attr\":{\"id\":\"j24_2\"},\"a_attr\":{\"href\":\"https://prostor.maribor.si/prostorski-akti-javne-objave/datoteke/2f12283fd0d42235d016.pdf/sample.pdf\",\"id\":\"j24_2_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"root_2\",\"type\":\"file\"},{\"id\":\"root_3\",\"text\":\"Priloge\",\"icon\":true,\"li_attr\":{\"id\":\"root_3\"},\"a_attr\":{\"href\":\"#\",\"id\":\"root_3_anchor\"},\"state\":{\"loaded\":true,\"opened\":true,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"#\",\"type\":\"folder\"},{\"id\":\"j24_3\",\"text\":\"Test 2 | CCITT_2.TIF\",\"icon\":\"fa fa-file\",\"li_attr\":{\"id\":\"j24_3\"},\"a_attr\":{\"href\":\"https://prostor.maribor.si/prostorski-akti-javne-objave/datoteke/5ccd36ceccd5bc823c48.tif/CCITT_2.TIF\",\"id\":\"j24_3_anchor\"},\"state\":{\"loaded\":true,\"opened\":false,\"selected\":false,\"disabled\":false},\"data\":{},\"parent\":\"root_3\",\"type\":\"file\"}]"
+}
