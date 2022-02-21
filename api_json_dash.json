@@ -1,134 +1,44 @@
-[
-	{
-		"nazivRazgrnitve": "Spremembe in dopolnitve državnega prostorskega načrta za cesto G2-108 Hrastnik-Zidani Most in deviacijo ceste G1-5 Rimske Toplice-Zidani Most-Radeče",
-		"datumi": {
-			"datumObjave": "1.4.2018",
-			"datumOdZacetkaObdobja": "2019-05-23",
-			"datumDoIztekaObdobja": "2019-10-11"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Zazidalni načrt"
-	},
-	{
-		"nazivRazgrnitve": "Izvajanje spremljanja stanja populacij izbranih ciljnih vrst hroščev v letih 2021, 2022 in 2023",
-		"datumi": {
-			"datumObjave": "5.4.2020",
-			"datumOdZacetkaObdobja": "2021-01-19",
-			"datumDoIztekaObdobja": "2022-10-11"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Zazidalni načrt"
-	},
-	{
-		"nazivRazgrnitve": "Naziv gradnje: Kopališče Ilirija",
-		"datumi": {
-			"datumObjave": "15.12.2020",
-			"datumOdZacetkaObdobja": "2021-01-23",
-			"datumDoIztekaObdobja": "2021-07-11"
-		},
-		"stAkta":1443,
-		"vrstaAkta":"Lokacijski načrt"
-	},
-	{
-		"nazivRazgrnitve": "Javni razpis za podelitev koncesije za rabo termalne vode za ogrevanje in potrebe kopališča iz vrtine V-18/18",
-		"datumi": {
-			"datumObjave": "12.05.2020",
-			"datumOdZacetkaObdobja": "2020-08-23",
-			"datumDoIztekaObdobja": "2021-09-11"
-		},
-		"stAkta":1305,
-		"vrstaAkta":"Lokacijski načrt"
-	},
-	{
-		"nazivRazgrnitve": "Ureditev prometne in komunalne infrastrukture za storitveno gospodarsko cono Dolenje Kronovo",
-		"datumi": {
-			"datumObjave": "17.4.2021",
-			"datumOdZacetkaObdobja": "2021-06-23",
-			"datumDoIztekaObdobja": "2021-08-01"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Naziv gradnje: HE Mokrice – Energetske in infrastrukturne ureditve",
-		"datumi": {
-			"datumObjave": "2.7.2019",
-			"datumOdZacetkaObdobja": "2019-09-23",
-			"datumDoIztekaObdobja": "2020-02-11"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Naziv gradnje: Prizidava proizvodnega objekta v IPC Brezina v Brežicah – II. faza",
-		"datumi": {
-			"datumObjave": "30.1.2021",
-			"datumOdZacetkaObdobja": "2021-03-23",
-			"datumDoIztekaObdobja": "2021-10-11"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Gradnja proizvodnega objekta: hale V, faza 7 in hale VII, faza 1 s pripadajočo zunanjo, prometno in komunalno infrastrukturo",
-		"datumi": {
-			"datumObjave": "5.8.2020",
-			"datumOdZacetkaObdobja": "2021-03-23",
-			"datumDoIztekaObdobja": "2021-08-31"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Javni razpis za podelitev koncesije za rabo termalne vode za ogrevanje in potrebe kopališča iz vrtine V-18/18",
-		"datumi": {
-			"datumObjave": "12.05.2020",
-			"datumOdZacetkaObdobja": "2020-08-23",
-			"datumDoIztekaObdobja": "2021-09-11"
-		},
-		"stAkta":1334,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Ureditev prometne in komunalne infrastrukture za storitveno gospodarsko cono Dolenje Kronovo",
-		"datumi": {
-			"datumObjave": "17.4.2021",
-			"datumOdZacetkaObdobja": "2021-06-23",
-			"datumDoIztekaObdobja": "2021-08-01"
-		},
-		"stAkta":1172,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Naziv gradnje: HE Mokrice – Energetske in infrastrukturne ureditve",
-		"datumi": {
-			"datumObjave": "2.7.2019",
-			"datumOdZacetkaObdobja": "2019-09-23",
-			"datumDoIztekaObdobja": "2020-02-11"
-		},
-		"stAkta":1172,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Naziv gradnje: Prizidava proizvodnega objekta v IPC Brezina v Brežicah – II. faza",
-		"datumi": {
-			"datumObjave": "30.1.2021",
-			"datumOdZacetkaObdobja": "2021-03-23",
-			"datumDoIztekaObdobja": "2021-10-11"
-		},
-		"stAkta":1172,
-		"vrstaAkta":"Strokovna podlaga"
-	},
-	{
-		"nazivRazgrnitve": "Gradnja proizvodnega objekta: hale V, faza 7 in hale VII, faza 1 s pripadajočo zunanjo, prometno in komunalno infrastrukturo",
-		"datumi": {
-			"datumObjave": "5.8.2020",
-			"datumOdZacetkaObdobja": "2021-03-23",
-			"datumDoIztekaObdobja": "2021-08-31"
-		},
-		"stAkta":1172,
-		"vrstaAkta":"Strokovna podlaga"
-	}
-
-
-]
+{
+  "datumDoIztekaObdobja": "string",
+  "datumNaznanilo": "string",
+  "datumOdZacetkaObdobja": "string",
+  "dokumentacija": "string",
+  "featureId": 0,
+  "javneObravnave": [
+    {
+      "datum": "string",
+      "naziv": "string",
+      "ura": "string"
+    }
+  ],
+  "javnoNaznanilo": 0,
+  "lokacijaVpogleda": {
+    "additionalProp1": [
+      {
+        "naslov": "string",
+        "uradneUre": "string"
+      }
+    ],
+    "additionalProp2": [
+      {
+        "naslov": "string",
+        "uradneUre": "string"
+      }
+    ],
+    "additionalProp3": [
+      {
+        "naslov": "string",
+        "uradneUre": "string"
+      }
+    ]
+  },
+  "nazivRazgrnitve": "string",
+  "naznaniloHash": "string",
+  "naznaniloIme": "string",
+  "opis": "string",
+  "povzetekHash": "string",
+  "povzetekIme": "string",
+  "povzetekZaJavnost": 0,
+  "vrstaPa": "string",
+  "vrstaPostopka": "string"
+}
