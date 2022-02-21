@@ -1,154 +1,68 @@
-{   
-    "nazivRazgrnitve": "Javna razgrnitev dopolnjenega osnutka Odloka o spremembah in dopolnitvah Odloka o zazidalnem načrtu za severni del območja urejanja VP 3/2 - Brdo",
-    "opis": "Namen razgrnitve modelov vrednotenja je seznanitev vseh lastnikov nepremičnin spredlogom modelov vrednotenja nepremičnin tudi grafično in na vizuelen način. Izrazgrnjenih izrisov je razvidno, kako so vrednostne cone in njihove vrednostne ravnipredlagane za celotno območje občine, kakšne so vrednostne tabele in točkovalniki. Občaniin lastniki lahko na podlagi javnoobjavljenih poskusnoizračunanih vrednosti na spletu, inrazgrnitve dobijo celovito in širšo informacijo o predlaganih modelih vrednotenjanepremičnin.",
-    "datumi": {
-    "datumObjave" : "5.4.2020",
-    "datumOdZacetkaObdobja" : "2021-03-23",
-    "datumDoIztekaObdobja" : "2021-10-11"
-    },
-    "lokacijeVpogleda": [
-        {
-            "naslov": {
-                "ulica": "Ulica heroja Staneta 1",
-                "ustanova": "Mestna Občina Maribor",
-                "obcina": "Maribor"
-            },
-            "uradneUre": {
-                "pon": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ],
-                "tor": [
-                    "8.00 - 16.00"
-                ],
-                "sre": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ],
-                "čet": [
-                    "8.00 - 16.00"
-                ],
-                "pet": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ]
-            }
-        },
-        {
-            "naslov": {
-                "ulica": "Pohorska cesta 15",
-                "ustanova": "Občina Hoče - Slivnica",
-                "obcina": "Hoče"
-            },
-            "uradneUre": {
-                "pon": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ],
-                "tor": [
-                    "8.00 - 16.00"
-                ],
-                "sre": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ],
-                "čet": [
-                    "8.00 - 16.00"
-                ],
-                "pet": [
-                    "8.00 - 14.00",
-                    "15.00 - 17.00"
-                ]
-            }
-        }
-    ],
-    "javneObravnave": [
-        {
-            "datum": "04.12.2020",
-            "naslov": {
-                "ulica": "Mariborska ulica",
-                "naselje": "Hoče",
-                "obcina": "Maribor"
-            }
-        },
-        {
-            "datum": "06.5.2020",
-            "naslov": {
-                "ulica": "Apaška ulica",
-                "naselje": "Apače",
-                "obcina": "Maribor"
-            }
-        },
-        {
-            "datum": "07.05.2020",
-            "naslov": {
-                "ulica": "Hoška ulica",
-                "naselje": "Hoče",
-                "obcina": "Maribor"
-            }
-        }
-    ],
-	"dokumentacija":[
-		{
-			"text": "Tekstualni del",
-			"type": "folder",
-			"children": [
-				{
-					"text": "PUP_dokum.doc",
-					"type": "doc",
-					"a_attr": {
-						"href": "http://www.example.com/"
-					}
-				}
-			]
-		},
-		{
-			"text": "Grafični del",
-			"type": "folder",
-			"children": [
-				{
-					"text": "Pregledna situacija",
-					"type": "folder",
-					"children": [
-						{
-							"text": "Pregledna_situacija.tiff",
-							"type": "tiff"
-						},
-						{
-							"text": "05_PSP_varovanja.pdf",
-							"type": "pdf"
-						}
-					]
-				},
-				{
-					"text": "Ostalo",
-					"type": "folder",
-					"children": [
-						{
-							"text": "PUP_mesto.tiff",
-							"type": "tiff"
-						},
-						{
-							"text": "PUP_podezelje.tiff",
-							"type": "tiff"
-						}
-					]
-				}
-			]
-		},
-		{
-			"text": "Priloge",
-			"type": "folder",
-			"children": [
-				{
-					"text": "01_pov_jav.pdf",
-					"type": "pdf"
-				},
-				{
-					"text": "02_pov_zab.doc",
-					"type": "doc"
-				}
-			]
-		}
-	]
-}
+// 20220221132803
+// https://prostor.maribor.si/api/pa-public/jr-list?dev=True
+
+[
+  {
+    "objavaId": 36,
+    "nazivRazgrnitve": "test 2",
+    "javnoNaznaniloDatum": "2022-02-01",
+    "datumOdZacetkaObdobja": "2022-02-01",
+    "datumDoIztekaObdobja": "2022-02-27",
+    "stAkta": 1044,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 26,
+    "nazivRazgrnitve": "Javna razgrnitev odloka o občinskem podrobnem prostorskem načrtu za del območja ST-1 ob Ruški cesti v mestni občini Maribor (Dravski breg)",
+    "javnoNaznaniloDatum": "2022-01-17",
+    "datumOdZacetkaObdobja": "2022-02-21",
+    "datumDoIztekaObdobja": "2022-03-31",
+    "stAkta": 1432,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 25,
+    "nazivRazgrnitve": "javna razgrnitev OPPN",
+    "javnoNaznaniloDatum": "2022-02-07",
+    "datumOdZacetkaObdobja": "2022-02-14",
+    "datumDoIztekaObdobja": "2022-02-28",
+    "stAkta": 1405,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 38,
+    "nazivRazgrnitve": "Javna razgrnitev odloka o OPN za del območja Pobrežje",
+    "javnoNaznaniloDatum": "2022-02-07",
+    "datumOdZacetkaObdobja": "2022-02-14",
+    "datumDoIztekaObdobja": "2022-02-28",
+    "stAkta": 1305,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 35,
+    "nazivRazgrnitve": "test 1",
+    "javnoNaznaniloDatum": "2022-01-19",
+    "datumOdZacetkaObdobja": "2022-02-08",
+    "datumDoIztekaObdobja": "2022-02-26",
+    "stAkta": 1044,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 30,
+    "nazivRazgrnitve": "1436",
+    "javnoNaznaniloDatum": "2022-02-07",
+    "datumOdZacetkaObdobja": "2022-02-16",
+    "datumDoIztekaObdobja": "2022-02-28",
+    "stAkta": 1436,
+    "vrstaAkta": null
+  },
+  {
+    "objavaId": 51,
+    "nazivRazgrnitve": "test dokumenti",
+    "javnoNaznaniloDatum": "2022-02-21",
+    "datumOdZacetkaObdobja": "2022-02-14",
+    "datumDoIztekaObdobja": "2022-03-07",
+    "stAkta": 1438,
+    "vrstaAkta": null
+  }
+]
